@@ -3,9 +3,13 @@ A simple and efficient C-based Café Management System designed to streamline or
 
 🚀 Features:
 ✅ Order Management – Take and process customer orders efficiently.
+
 ✅ Billing System – Automatically generate and display customer bills.
+
 ✅ Inventory Tracking – Monitor stock levels of ingredients and products.
+
 ✅ User-Friendly Interface – Simple menu-driven navigation.
+
 ✅ File Handling – Store and retrieve transaction records.
 
 🛠️ Technologies Used:
