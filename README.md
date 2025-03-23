@@ -2,6 +2,7 @@
 A simple and efficient C-based Café Management System designed to streamline order processing, billing, and inventory management.
 
 🚀 Features:
+
 ✅ Order Management – Take and process customer orders efficiently.
 
 ✅ Billing System – Automatically generate and display customer bills.
